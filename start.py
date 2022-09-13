@@ -1,4 +1,4 @@
-# Compile TUTORIAL GRATIS
+# Compile https://instagram.com/irfansyahrul21/
 # https://github.com/Ainul130496
 # Make Sure You're Running The Program With python3.10 Otherwise It May Crash
 # To Check Your Python Version Run "python -V" Command
